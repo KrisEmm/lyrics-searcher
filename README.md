@@ -20,4 +20,4 @@ This project is a song lyrics search that makes use of theaudiodb and lyrics.ovh
 
 ##### `docker-compose up -d`
 
-##### `visit into browser http:\\localhost:port/`
+##### `visit into browser http:\\localhost:3000/`
